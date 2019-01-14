@@ -1,0 +1,40 @@
+#### WEEK ONE RECAP AND THOUGHTS
+
+Blogging on a sunny Sunday with not a cloud in the sky and some headphone heat courtesy 
+of dj conXn on mixcloud.com
+
+https://www.mixcloud.com/dj-conxn/conxn-mixtape-new-years-day-2019/    if you wanna join
+
+Week 1 of bootcamp finished two days ago and yet I still find myself thinking of ways to 
+manipulate the NYC MTA subway data from our first project. No sheep, I see pandas.count()
+as I close my eyes. 
+
+Since week 1 at Metis I have started to look at things a bit different. There's a little
+voice in my head reminding me that there is data that can be synthesized and used to 
+help explain and enhance the life around me. I used to "leave it to the experts" or write
+off the responsibility for things like the power grid but now I have found that sometimes 
+all it takes is a keen eye and determination to spark a significant change.
+
+Learning is empowering and I'm excited to think of what lies ahead. 
+
+After some climate talk at a memorial yesterday evening I find myself pondering the
+following today:
+* Taylor Wilson aka the youngest person to build a nuclear reactor and his plan for small
+nuclear fission reactors 
+you can hear him explain here - https://www.ted.com/talks/taylor_wilson_my_radical_plan_for_small_nuclear_fission_reactors?language=en
+
+* Boyan Slat the Dutch inventor of a oceanic garbage cleanup machine and CEO of 
+The Ocean Cleanup - I didn't know about the great pacific garbage patch until hearing 
+him explain it a few years ago
+
+* Quote I heard once - 
+"As one person I cannot change the world, but I can change the world of one person"
+a google search attributes this to one Paul Shane Spear and while I agree that each of
+us can immediately impact those around us for the better even with a very small kindness,
+and I strive to do this more and more in my life, I also have a revulsion to this quote
+because if we think we can't, we won't. And then we succumb to insignificance. 
+
+Blog one bam 
+
+ 
+
