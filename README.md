@@ -20,3 +20,4 @@ After some other definitions, Newton states his __first law of motion:__
 
 -----
 
+Sir Isaac's first law and rightfully so, it governs all the rest. The vectors of every micro interaction constantly shaping one's bubble, one's world, and the cosmos. 
