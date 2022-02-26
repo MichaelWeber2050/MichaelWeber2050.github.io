@@ -1,4 +1,4 @@
-# Weber
+# Inertia Inertia Inertia
 
 *The Case of Inertia* 
 defined in two parts 
