@@ -1,6 +1,11 @@
-# Poole
+# Weber
 
-*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
+*The Case of Inertia* defined in two parts 1) a tendency to do nothing or to remain unchanged. 2) Physics - a property of matter by which it continues in its existing state of rest or uniform motion in a straight line, unless that state is changed by an external force.
+
+![image](https://user-images.githubusercontent.com/45840051/155851993-98da70b9-7ef6-4b16-ad64-81252127d2b0.png)
+
+Inertia is the resistance of any physical object to change in its velocity. This includes changes to the object's speed, or direction of motion. 
+- An aspect of this property is the tendency of objects to keep moving in a straight line at a constant speed when no forces act upon them.
 
 -----
 
