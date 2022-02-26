@@ -1,6 +1,9 @@
 # Weber
 
-*The Case of Inertia* defined in two parts 1) a tendency to do nothing or to remain unchanged. 2) Physics - a property of matter by which it continues in its existing state of rest or uniform motion in a straight line, unless that state is changed by an external force.
+*The Case of Inertia* 
+defined in two parts 
+1) a tendency to do nothing or to remain unchanged. 
+2) 2) Physics - a property of matter by which it continues in its existing state of rest or uniform motion in a straight line, unless that state is changed by an external force.
 
 ![image](https://user-images.githubusercontent.com/45840051/155851993-98da70b9-7ef6-4b16-ad64-81252127d2b0.png)
 
