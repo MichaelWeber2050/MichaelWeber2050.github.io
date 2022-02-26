@@ -10,6 +10,14 @@ defined in two parts
 Inertia is the resistance of any physical object to change in its velocity. This includes changes to the object's speed, or direction of motion. 
 - An aspect of this property is the tendency of objects to keep moving in a straight line at a constant speed when no forces act upon them.
 
+Inertia comes from the Latin word, iners, meaning idle, sluggish. Inertia is one of the primary manifestations of mass, which is a quantitative property of physical systems. Isaac Newton defined inertia as a force, before his first law in the monumental Philosophiæ Naturalis Principia Mathematica. There, one reads:
+
+- DEFINITION III. The vis insita, or innate force of matter, is a power of resisting by which every body, as much as in it lies, endeavours to persevere in its present state, whether it be of rest or of moving uniformly forward in a right line.
+
+After some other definitions, Newton states his __first law of motion:__
+
+- LAW I. Every body perseveres in its state of rest, or of uniform motion in a right line, unless it is compelled to change that state by forces impressed thereon.
+
 -----
 
 Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example templates, pages, posts, and styles.
